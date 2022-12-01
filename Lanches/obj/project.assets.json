@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\Lanches\\Lanches\\Lanches.csproj",
+      "projectUniqueName": "C:\\Users\\Rafael\\Desktop\\LanchesWeb\\LanchesWeb\\Lanches\\Lanches.csproj",
       "projectName": "Lanches",
-      "projectPath": "C:\\Users\\Rafael\\Desktop\\Lanches\\Lanches\\Lanches.csproj",
+      "projectPath": "C:\\Users\\Rafael\\Desktop\\LanchesWeb\\LanchesWeb\\Lanches\\Lanches.csproj",
       "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rafael\\Desktop\\Lanches\\Lanches\\obj\\",
+      "outputPath": "C:\\Users\\Rafael\\Desktop\\LanchesWeb\\LanchesWeb\\Lanches\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",

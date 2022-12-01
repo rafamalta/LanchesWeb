@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gjY/4TAkdjK9og0LHrHZvBscqt7EaVPjDJ0nC+JAMZpVXfkKMKWafahezRhW0WxpWSf8UcWOcgGq2jfvdZPd8Q==",
+  "dgSpecHash": "FEazEv6GRUjfeXsMK7IegJe72EBZ0gfOfcF1oV2DOwnAnhL4Oz8zPpit0rPhvR2MgPmv2GMTegY0fnLlQal9bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Lanches\\Lanches\\Lanches.csproj",
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\LanchesWeb\\LanchesWeb\\Lanches\\Lanches.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rafael\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Rafael\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
